@@ -1,0 +1,33 @@
+1)What is Emmet?
+
+Ans. VS code extension to write HTML,CSS code faster using abbreviations.
+
+2) Difference between a Library and Framework?
+
+Ans. A key difference between the two is the inversion of control. When using a library, the control remains with the developer who tells the application when to call library functions. When using a framework, the control is reversed, which means that the framework tells the developer where code needs to be provided and calls it as it requires
+
+3)What is CDN? Why do we use it?
+
+Ans. A Content Delivery Network (CDN) works by providing alternative server nodes for users to download resources (usually static content like images and JavaScript).
+The number one reason for using a CDN is to improve your user’s experience in terms of speed.
+
+4)Why is React known as React?
+
+Ans. React is a front-end framework or the “View” in MVC, this means that as the user clicks around and changes the app’s data, the view should “react” or change with those user events.
+
+5)What is crossorigin in script tag?
+
+Ans. Cross Origin in script tag is use to add Allow Access Allow Origin header which will allow browser to fetch data from the resource hosted on different origin.
+
+6)What is diference between React and ReactDOM?
+
+Ans. React library is responsible for creating views and ReactDOM library is responsible to actually render UI in the browser.
+
+7)What is difference between react.development.js and react.production.js files via CDN?
+
+Ans. Production files are more optimized and have been minified to make user experience better.
+
+8)What is async and defer? 
+
+Ans. In Async HTML Parsing and scripts fetching from network works parallely and after scripts fetching HTML parsing stops and execute scripts and then HTML parsing restarts. This
+But in Defer HTML Parsing and scripts fetching from network works parallely and once HTML parsing is done script execution will start.
